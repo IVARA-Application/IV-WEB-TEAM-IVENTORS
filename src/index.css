@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Poppins, sans-serif;
+}
+
+span {
+  font-family: Allura, sans-serif;
+}
+
+.main {
+  min-height: 60vh;
+}
+
+.footer {
+  min-height: 20vh;
+}
+
+/* NavBar */
+
+.Buttons {
+  background: #232325;
+  box-shadow: -5px -5px 10px #0e0e0f, 5px 5px 10px #38383b;
+}
+
+.icons {
+  background: rgba(42, 66, 232);
+  box-shadow: -5px -5px 10px #0e0e0f, 5px 5px 10px #38383b;
+}
+
+.navbar {
+  min-height: 20vh;
+}
