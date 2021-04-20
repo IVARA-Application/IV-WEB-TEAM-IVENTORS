@@ -12,7 +12,7 @@ function MainSection() {
               <span className="text-4xl md:text-7xl italic font-extralight">
                 IV
               </span>
-              For Learning, Livelihood and life
+              For Learning, Livelihood and Life
             </p>
             <div className="space-y-4 text-md px-4">
               <p>
